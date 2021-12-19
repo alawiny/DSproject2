@@ -1,0 +1,4 @@
+consumer_key= 'ps4IBL3g0xB3q2LtptdZTFX0s'
+consumer_secret= 'yrhLvG7ImYrlHC09QdAyIEPVUSgI2swBzQkCj4cr2LQdYQXIgr'
+access_token= '2410927837-j4arWedjvujD6gVoOlzJu4osoGSU6eVJGZ9fyoh'
+access_token_secret= 'iRj8qDBXrMBlxoElOpRdXN7hTVOvZOq2yxBnC8JbJBeku'
